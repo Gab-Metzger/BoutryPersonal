@@ -101,7 +101,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6 {
 	top: 0;
 	left: 2000px;
 	bottom: 0;
-	width: 85%;
+	width: 95%; /* 85%; */
 	background-color: #f7f7f7;
 }
 
@@ -256,8 +256,8 @@ ul#navigation li .icon {
 	bottom: 0;
 	left: 0;
 	width: 100%;
-	background: #202020;
-	border-top: 1px solid #1A1A1A;
+	background: #2b2b2b; /* #202020;*/
+	/* border-top: 1px solid #1A1A1A; */
 	width: 250px;
 	z-index: 2;
 	height: 45px;
